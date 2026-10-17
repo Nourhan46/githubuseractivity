@@ -19,5 +19,5 @@ Before running this project, make sure you have:
 
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/github-user-repos.git
+   git clone https://github.com/Nourhan46/githubuseractivity.git
    cd github-user-repos
