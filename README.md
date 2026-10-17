@@ -1,4 +1,4 @@
-# GitHub User Repositories CLI 🚀
+# GitHub User Repositories CLI 
 
 A lightweight, command-line interface (CLI) application built in Java that fetches and displays the public repositories of any GitHub user. 
 
